@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @megangoodling, a software engineer at Strava
-- 👀 I'm interested in the outdoors, reading, running and cooking
 - 🗺 I'm located in Denver, Colorado
 - 🌱 I'm currently learning Scala and functional programming
+- 👀 I'm interested in the outdoors, skiing, reading and travel
